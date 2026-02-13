@@ -1,6 +1,6 @@
 ### Telesense
 
-**Telesense** is a small GitHub repository described as a **web application for property management** (Webanwendung zur Wohnungsverwaltung).   [Github](https://github.com/delobezno/telesense)  [Github](https://github.com/delobezno/telesense/blob/main/README.md)
+**Telesense** is a small GitHub repository described as a **web application for property management** (Webanwendung zur Wohnungsverwaltung).   
 
 ---
 
@@ -28,7 +28,7 @@ The name **Telesense** also corresponds to a German company that provides techno
 git clone https://github.com/delobezno/telesense.git
 ```
 **Inspect the project**  
-- Open the repository on GitHub or list files locally to see the web application structure and any framework used (HTML, JavaScript, backend code, configuration).   [Github](https://github.com/delobezno/telesense)
+- Open the repository on GitHub or list files locally to see the web application structure and any framework used (HTML, JavaScript, backend code, configuration).   
 
 **Run locally**  
 - The exact run steps depend on the stack used (static site, Node, Java, PHP, etc.). Look for `package.json`, `pom.xml`, `README.md`, or other indicators in the repo root to determine build and run commands.
